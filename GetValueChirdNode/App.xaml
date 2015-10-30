@@ -1,0 +1,8 @@
+﻿<Application x:Class="GetValueChirdNode.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <SolidColorBrush x:Key="Main" Color="#e4e7ea"/>
+    </Application.Resources>
+</Application>

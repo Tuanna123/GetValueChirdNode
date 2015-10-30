@@ -1,0 +1,46 @@
+F:\WIPHONE\GetValueChirdNode\GetValueChirdNode\bin\Debug\GetValueChirdNode.exe.config
+F:\WIPHONE\GetValueChirdNode\GetValueChirdNode\bin\Debug\GetValueChirdNode.exe
+F:\WIPHONE\GetValueChirdNode\GetValueChirdNode\bin\Debug\GetValueChirdNode.pdb
+F:\WIPHONE\GetValueChirdNode\GetValueChirdNode\bin\Debug\HtmlAgilityPack-PCL.dll
+F:\WIPHONE\GetValueChirdNode\GetValueChirdNode\bin\Debug\System.Net.Http.Extensions.dll
+F:\WIPHONE\GetValueChirdNode\GetValueChirdNode\bin\Debug\System.Net.Http.Primitives.dll
+F:\WIPHONE\GetValueChirdNode\GetValueChirdNode\bin\Debug\HtmlAgilityPack-PCL.xml
+F:\WIPHONE\GetValueChirdNode\GetValueChirdNode\bin\Debug\System.Net.Http.Extensions.xml
+F:\WIPHONE\GetValueChirdNode\GetValueChirdNode\bin\Debug\System.Net.Http.Primitives.xml
+F:\WIPHONE\GetValueChirdNode\GetValueChirdNode\obj\Debug\GetValueChirdNode.csproj.App.config
+F:\WIPHONE\GetValueChirdNode\GetValueChirdNode\obj\Debug\GetValueChirdNode.csprojResolveAssemblyReference.cache
+F:\WIPHONE\GetValueChirdNode\GetValueChirdNode\obj\Debug\MainWindow.baml
+F:\WIPHONE\GetValueChirdNode\GetValueChirdNode\obj\Debug\App.baml
+F:\WIPHONE\GetValueChirdNode\GetValueChirdNode\obj\Debug\MainWindow.g.cs
+F:\WIPHONE\GetValueChirdNode\GetValueChirdNode\obj\Debug\App.g.cs
+F:\WIPHONE\GetValueChirdNode\GetValueChirdNode\obj\Debug\GetValueChirdNode_MarkupCompile.cache
+F:\WIPHONE\GetValueChirdNode\GetValueChirdNode\obj\Debug\GetValueChirdNode.g.resources
+F:\WIPHONE\GetValueChirdNode\GetValueChirdNode\obj\Debug\GetValueChirdNode.Properties.Resources.resources
+F:\WIPHONE\GetValueChirdNode\GetValueChirdNode\obj\Debug\GetValueChirdNode.csproj.GenerateResource.Cache
+F:\WIPHONE\GetValueChirdNode\GetValueChirdNode\obj\Debug\GetValueChirdNode.exe
+F:\WIPHONE\GetValueChirdNode\GetValueChirdNode\obj\Debug\GetValueChirdNode.pdb
+F:\WIPHONE\GetValueChirdNode\GetValueChirdNode\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\WIPHONE\GetValueChirdNode\GetValueChirdNode\obj\Debug\GetValueChirdNode_MarkupCompile.lref
+F:\Win Form\GetValueChirdNode\GetValueChirdNode\bin\Debug\GetValueChirdNode.exe.config
+F:\Win Form\GetValueChirdNode\GetValueChirdNode\obj\Debug\GetValueChirdNode.exe
+F:\Win Form\GetValueChirdNode\GetValueChirdNode\obj\Debug\GetValueChirdNode.pdb
+F:\Win Form\GetValueChirdNode\GetValueChirdNode\bin\Debug\GetValueChirdNode.exe
+F:\Win Form\GetValueChirdNode\GetValueChirdNode\bin\Debug\GetValueChirdNode.pdb
+F:\Win Form\GetValueChirdNode\GetValueChirdNode\bin\Debug\HtmlAgilityPack-PCL.dll
+F:\Win Form\GetValueChirdNode\GetValueChirdNode\bin\Debug\System.Net.Http.Extensions.dll
+F:\Win Form\GetValueChirdNode\GetValueChirdNode\bin\Debug\System.Net.Http.Primitives.dll
+F:\Win Form\GetValueChirdNode\GetValueChirdNode\bin\Debug\HtmlAgilityPack-PCL.xml
+F:\Win Form\GetValueChirdNode\GetValueChirdNode\bin\Debug\System.Net.Http.Extensions.xml
+F:\Win Form\GetValueChirdNode\GetValueChirdNode\bin\Debug\System.Net.Http.Primitives.xml
+F:\Win Form\GetValueChirdNode\GetValueChirdNode\obj\Debug\GetValueChirdNode.csproj.App.config
+F:\Win Form\GetValueChirdNode\GetValueChirdNode\obj\Debug\GetValueChirdNode.csprojResolveAssemblyReference.cache
+F:\Win Form\GetValueChirdNode\GetValueChirdNode\obj\Debug\App.baml
+F:\Win Form\GetValueChirdNode\GetValueChirdNode\obj\Debug\MainWindow.g.cs
+F:\Win Form\GetValueChirdNode\GetValueChirdNode\obj\Debug\App.g.cs
+F:\Win Form\GetValueChirdNode\GetValueChirdNode\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Win Form\GetValueChirdNode\GetValueChirdNode\obj\Debug\GetValueChirdNode_MarkupCompile.cache
+F:\Win Form\GetValueChirdNode\GetValueChirdNode\obj\Debug\GetValueChirdNode_MarkupCompile.lref
+F:\Win Form\GetValueChirdNode\GetValueChirdNode\obj\Debug\MainWindow.baml
+F:\Win Form\GetValueChirdNode\GetValueChirdNode\obj\Debug\GetValueChirdNode.g.resources
+F:\Win Form\GetValueChirdNode\GetValueChirdNode\obj\Debug\GetValueChirdNode.Properties.Resources.resources
+F:\Win Form\GetValueChirdNode\GetValueChirdNode\obj\Debug\GetValueChirdNode.csproj.GenerateResource.Cache
